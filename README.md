@@ -12,19 +12,19 @@ _<u>descrição</u>_: o código faz uma busca binária, em um vetor ordenado esp
 
 *<u>descrição</u>*: o código implementa o método de Euler para encontrar a solução de uma EDO fornecida, no intervalo _x = 0_ e _x = 2_, com um passo _h = 0,001_.
 
-#### Multiplica Matrizes
+#### Multiplica matrizes
 
 *<u>arquivo</u>*: `multiplicaMatrizes.c`
 
 *<u>descrição</u>*: o código retorna o resultado da multiplicação de duas matrizes A (5 x 4) e B (4 x 6), em uma matriz C (5 x 6).
 
-#### Soma Pares com a Multiplicação dos Ímpares
+#### Soma pares com a multiplicação dos ímpares
 
 *<u>arquivo</u>*: `somaPares_com_multImpares.c`
 
 *<u>descrição</u>*: o código implementa uma função que recebe um número inteiro, realiza a multiplicação dos dígitos ímpares desse número e soma o resultado à soma dos dígitos pares.
 
-#### Inverte Inteiro Positivo
+#### Inverte inteiro positivo
 
 *<u>arquivo</u>*: `inverteInt.c`
 
@@ -36,7 +36,7 @@ _<u>descrição</u>_: o código faz uma busca binária, em um vetor ordenado esp
 
 *<u>descrição</u>*: o código implementa um programa que recebe uma matriz e verifica se esta representa uma matriz dezena. Neste caso, uma matriz é matriz dezena se a soma de sua diagonal principal resulta em 10 e a multiplicação de cada uma de suas linhas e cada uma de suas colunas gera um valor múltiplo de 10.
 
-#### Ordena um Vetor por Selection Sort
+#### Ordena um vetor por Selection Sort
 
 *<u>arquivo</u>*: `selectionSort.c`
 
@@ -48,9 +48,27 @@ _<u>descrição</u>_: o código faz uma busca binária, em um vetor ordenado esp
 
 *<u>descrição</u>*: o código implementa o método de Euler para resolver a Lei de Resfriamento de Newton, no intervalo de tempo _t = 0 sd_ e _t = 100 s_, para três passos distintos: _2 s_, _5 s_ e _10 s_.
 
-#### Produto Escalar e Vetorial de dois Vetores
+#### Produto escalar e vetorial de dois vetores
 
 *<u>arquivo</u>*: `prodEscalarVetorial.c`
 
 *<u>descrição</u>*: o código recebe, do usuário, os elementos de dois vetores, de tamanho 3, e retorna o produto escalar e o produto vetorial entre eles.
+
+#### Verifica se os dígitos são pares e se somam mais que 10
+
+*<u>arquivo</u>*: `verifica_digitosPares_somaMaior10.c`
+
+*<u>descrição</u>*: o código implementa uma função que recebe um inteiro positivo e verifica se  todos os dígitos são pares e se a soma deles é maior que 10. Caso positivo, a função retorna 1; senão, retorna 0.
+
+#### Verifica se é Matriz Múltipla
+
+*<u>arquivo</u>*: `matrizMultipla.c`
+
+*<u>descrição</u>*: o código implementa um programa que recebe uma matriz e verifica se esta representa uma matriz múltipla. Neste caso, uma matriz é matriz múltipla se a soma de sua diagonal principal resulta em um valor _x_ e a multiplicação de cada uma de suas linhas e cada uma de suas colunas gera um valor múltiplo de _x_.
+
+#### Calcula a Integral utilizando o Método do Trapézio
+
+*<u>arquivo</u>*: `integralTrapezio.c`
+
+*<u>descrição</u>*: o código implementa uma função que recebe os limites inferior e superior de uma integral e o número de aproximações a ser feito no intervalo, retornando o valor da integral, calculado a partir do Método do Trapézio.
 
