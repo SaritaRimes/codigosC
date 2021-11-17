@@ -60,6 +60,18 @@ _<u>descrição</u>_: o código faz uma busca binária de um determinado número
 
 *<u>descrição</u>*: o código implementa um programa que recebe uma matriz e verifica se esta representa uma matriz múltipla. Neste caso, uma matriz é matriz múltipla se a soma de sua diagonal principal resulta em um valor _x_ e a multiplicação de cada uma de suas linhas e cada uma de suas colunas gera um valor múltiplo de _x_.
 
+#### Verifica se é Matriz de Permutação
+
+*<u>arquivo</u>*: `matrizPermutacao.c`
+
+*<u>descrição</u>*: o código implementa um programa que recebe uma matriz e verifica se esta representa uma matriz de permutação. Neste caso, uma matriz é matriz de permutação se em cada linha e em cada coluna houver _n-1_ elementos nulos e um único elemento igual a 1.
+
+#### Merge Sort
+
+*<u>arquivo</u>*: `mergeSort.cpp`
+
+*<u>descrição</u>*: o código implementa o algoritmo de ordenação Merge Sorte e retorna o número de comparações realizadas pelo algoritmo.
+
 #### Multiplica matrizes
 
 *<u>arquivo</u>*: `multiplicaMatrizes.c`
@@ -95,6 +107,12 @@ _<u>descrição</u>_: o código faz uma busca binária de um determinado número
 *<u>arquivo</u>*: `somaPares_com_multImpares.c`
 
 *<u>descrição</u>*: o código implementa uma função que recebe um número inteiro, realiza a multiplicação dos dígitos ímpares desse número e soma o resultado à soma dos dígitos pares.
+
+#### Soma pares de um número com a multiplicação dos ímpares do segundo *número*
+
+*<u>arquivo</u>*: `somaPares_com_multImpares-tresArgumentos.c`
+
+*<u>descrição</u>*: o código implementa uma função que recebe três argumentos inteiros e faz a soma dos dígitos pares do primeiro argumento mais a multiplicação dos dígitos ímpares do segundo. Se o resultado for igual ao valor do terceiro argumento, retorna 1; senão, retorna 0.
 
 #### Verifica se a soma dos dígitos resulta em um número primo
 
