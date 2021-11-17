@@ -1,5 +1,11 @@
 ## Descrição dos códigos :woman_technologist:
 
+#### Bubble Sort
+
+*<u>arquivo</u>*: `bubbleSort.c`
+
+*<u>descrição</u>*: o código implementa o algoritmo de ordenação Bubble Sort para ordenar um vetor de elementos inteiros.
+
 #### Busca Binária
 
 _<u>arquivo</u>_: `buscaBinaria.c`
