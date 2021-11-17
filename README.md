@@ -24,6 +24,12 @@ _<u>descrição</u>_: o código faz uma busca binária de um determinado número
 
 *<u>descrição</u>*: o código implementa o método de Euler para encontrar a solução de uma EDO fornecida, no intervalo _x = 0_ e _x = 2_, com um passo _h = 0,001_.
 
+#### Lê 10 números e retorna informações sobre eles
+
+*<u>arquivo</u>*: `informaNumeros.c`
+
+*<u>descrição</u>*: o código implementa um programa que recebe do usuário 10 números inteiros e imprime na tela a quantidade de valores positivos, de pares, de positivos e pares e de positivos ou pares. O código é implementado com apenas três comandos de testes, relacionados aos valores.
+
 #### Calcula a Integral utilizando o Método do Trapézio
 
 *<u>arquivo</u>*: `integralSimpson.c`
@@ -89,6 +95,12 @@ _<u>descrição</u>_: o código faz uma busca binária de um determinado número
 *<u>arquivo</u>*: `quadradoEspecial.c`
 
 *<u>descrição</u>*: o código implementa um programa que recebe uma matriz _n x n_ e verifica se esta representa um quadrado especial. Neste caso, uma matriz é quadrado especial se a soma dos elementos de cada linha, a soma dos elementos de cada coluna e a soma dos elementos da diagonal principal são todos iguais.
+
+#### Relaciona vetores
+
+*<u>arquivo</u>*: `relacionaVetores.c`
+
+*<u>descrição</u>*: o código implementa uma função que recebe dois vetores inteiros de mesmo tamanho e retorna o primeiro índice do vetor 1 que possui elemento com valor igual ao somatório dos elementos do vetor 2. Se não existir, a função retorna -1.
 
 #### Método de Runge-Kutta para Equações Diferenciais Ordinárias
 
